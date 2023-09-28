@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 69.015 s <<< FAILURE! - in TestSuite
+login(tests.LoginTestWithDataDriven)  Time elapsed: 50.796 s  <<< FAILURE!
+java.lang.AssertionError: expected:<AUTHENTICATION> but was:<MY ACCOUNT>
+	at tests.LoginTestWithDataDriven.login(LoginTestWithDataDriven.java:44)
+

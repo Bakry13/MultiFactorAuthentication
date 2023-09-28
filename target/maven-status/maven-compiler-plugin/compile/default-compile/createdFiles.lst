@@ -1,0 +1,10 @@
+actions\ElementActions.class
+utilities\ConfigUtil.class
+readers\PropertiesReader.class
+utilities\Assertions.class
+utilities\Screenshots.class
+utilities\TestBase.class
+readers\Hooks.class
+readers\ExcelReader.class
+utilities\Paths.class
+actions\BrowserActions.class
